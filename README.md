@@ -5,6 +5,8 @@ Uso del comando:
 
 ./auditIDPS.py [opciones, ] -t/--target HOST_IP/FQDN
 
-donde [opciones]:"
+donde [opciones]:
+
 -v/--verbose: Activa la salida en pantalla con detalles de cada ataque."
+
 -s/--strict: Activa la opción estricta, cumple política del IDPS."
